@@ -2,7 +2,7 @@
 # Author: Younès Alaoui
 # Licence: MIT Licence
 
-This dataset is designed to train and test authomaric short answer grading (ASAG) in Arabic.
+This dataset is designed to train and test authomatic short answer grading (ASAG) in Arabic.
 
 We have collected our dataset manually from school children aged between 11 to 12 years old. We have used Google forms to collect the answers.  All the participants were studying in the sixth grade of primary education in different groups in Morocco. Those schoolchildren have answered 18 questions related to the Islamic education course. A human instructor has evaluated and graded all answers. The grades were between 0 and 2: 0 for completely incorrect, 1 for partially correct, 2 for correct.
  
